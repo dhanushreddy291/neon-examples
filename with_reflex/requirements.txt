@@ -1,0 +1,4 @@
+python-dotenv
+reflex
+psycopg2-binary
+reflex==0.8.17
